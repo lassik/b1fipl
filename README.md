@@ -37,7 +37,7 @@ These single-file implementations are rarely complete, hardly sophisticated or e
 
 [Mini-Scheme](https://github.com/catseye/minischeme) updated by Chris Pressey, originally implemented by Atsushi Moriwaki.
 
-[mLite](https://www.t3x.org/mlite/index.html) implemented by Nils M. Holm. A lightweight variant of ML.
+[mLite](https://www.t3x.org/mlite/) implemented by Nils M. Holm. A lightweight ML with dynamic typing.
 
 [Most functional](http://www.ioccc.org/2012/tromp/hint.html) implemented by John Tromp. An implementation of binary lambda calculus in 25 lines of obfuscated C.
 
